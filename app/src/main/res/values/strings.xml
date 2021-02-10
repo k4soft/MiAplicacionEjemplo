@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mi aplicación de ejemplo</string>
+    <string name="titulo">Mi súper aplicación</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="digita_numero">Digite un número por favor</string>
+    <string name="formulario">Mi formulario</string>
+    <string name="requerido">Valor requerido</string>
+</resources>
